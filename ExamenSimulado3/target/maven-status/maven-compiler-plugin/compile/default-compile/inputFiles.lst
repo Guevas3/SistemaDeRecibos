@@ -1,0 +1,16 @@
+C:\Users\mauro\Documents\NetBeansProjects\ExamenSimulado2\src\main\java\com\mycompany\examensimulado2\persistencia\ControladorPersistencia.java
+C:\Users\mauro\Documents\NetBeansProjects\ExamenSimulado2\src\main\java\com\mycompany\examensimulado2\vista\Vista.java
+C:\Users\mauro\Documents\NetBeansProjects\ExamenSimulado2\src\main\java\com\mycompany\examensimulado2\persistencia\exceptions\NonexistentEntityException.java
+C:\Users\mauro\Documents\NetBeansProjects\ExamenSimulado2\src\main\java\com\mycompany\examensimulado2\persistencia\exceptions\IllegalOrphanException.java
+C:\Users\mauro\Documents\NetBeansProjects\ExamenSimulado2\src\main\java\com\mycompany\examensimulado2\modelo\ControladorModelo.java
+C:\Users\mauro\Documents\NetBeansProjects\ExamenSimulado2\src\main\java\com\mycompany\examensimulado2\modelo\Comprobante.java
+C:\Users\mauro\Documents\NetBeansProjects\ExamenSimulado2\src\main\java\com\mycompany\examensimulado2\ExamenSimulado2.java
+C:\Users\mauro\Documents\NetBeansProjects\ExamenSimulado2\src\main\java\com\mycompany\examensimulado2\modelo\Proveedor.java
+C:\Users\mauro\Documents\NetBeansProjects\ExamenSimulado2\src\main\java\com\mycompany\examensimulado2\persistencia\ComprobanteJpaController.java
+C:\Users\mauro\Documents\NetBeansProjects\ExamenSimulado2\src\main\java\com\mycompany\examensimulado2\persistencia\ReciboJpaController.java
+C:\Users\mauro\Documents\NetBeansProjects\ExamenSimulado2\src\main\java\com\mycompany\examensimulado2\controlador\ControladorVista.java
+C:\Users\mauro\Documents\NetBeansProjects\ExamenSimulado2\src\main\java\com\mycompany\examensimulado2\persistencia\ProveedorJpaController.java
+C:\Users\mauro\Documents\NetBeansProjects\ExamenSimulado2\src\main\java\com\mycompany\examensimulado2\modelo\Fecha.java
+C:\Users\mauro\Documents\NetBeansProjects\ExamenSimulado2\src\main\java\com\mycompany\examensimulado2\modelo\Recibo.java
+C:\Users\mauro\Documents\NetBeansProjects\ExamenSimulado2\src\main\java\com\mycompany\examensimulado2\persistencia\FechaJpaController.java
+C:\Users\mauro\Documents\NetBeansProjects\ExamenSimulado2\src\main\java\com\mycompany\examensimulado2\persistencia\exceptions\PreexistingEntityException.java
